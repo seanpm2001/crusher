@@ -1,0 +1,144 @@
+%PDF-1.7
+%âãÏÓ
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [3 0 R]
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/GS1 5 0 R
+>>
+/Font <<
+/F1 6 0 R
+>>
+/XObject <<
+/Fm0 7 0 R
+>>
+>>
+>>
+endobj
+4 0 obj
+<<
+/Length 404
+>>
+stream
+q
+1 0 0 1 50 700 cm
+BT
+/F1 24 Tf
+(Vector Graphics and Annotations) Tj
+ET
+Q
+
+q
+1 0 0 1 50 650 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+10 10 m
+100 10 l
+100 100 l
+10 100 cl
+h
+S
+Q
+
+q
+1 0 0 1 50 500 cm
+/Fm0 Do
+Q
+
+q
+1 0 0 1 50 350 cm
+1 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+10 10 m
+100 10 l
+100 100 l
+10 100 cl
+h
+S
+Q
+
+q
+1 0 0 1 50 200 cm
+BT
+/F1 16 Tf
+(This PDF has annotations and vector graphics) Tj
+ET
+Q
+endstream
+endobj
+5 0 obj
+<<
+/Type /ExtGState
+/ca 0.5
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+7 0 obj
+<<
+/Type /XObject
+/Subtype /Form
+/FormType 1
+/BBox [0 0 100 100]
+/Matrix [1 0 0 1 0 0]
+/Resources <<
+/ProcSet [/PDF]
+>>
+/Length 53
+>>
+stream
+q
+1 0 0 1 0 0 cm
+50 50 m
+75 75 l
+S
+Q
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f
+0000000010 00000 n
+0000000054 00000 n
+0000000115 00000 n
+0000000463 00000 n
+0000000914 00000 n
+0000000970 00000 n
+0000001032 00000 n
+trailer
+<<
+/Size 8
+/Root 1 0 R
+>>
+startxref
+1157
+%%EOF

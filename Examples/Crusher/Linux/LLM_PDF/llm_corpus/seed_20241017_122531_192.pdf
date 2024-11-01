@@ -1,0 +1,61 @@
+%PDF-1.7
+%¥±ë
+
+1 0 obj
+<</Type/Catalog/Pages 2 0 R>>
+endobj
+
+2 0 obj
+<</Type/Pages/Kids[3 0 R]/Count 1>>
+endobj
+
+3 0 obj
+<</Type/Page/Parent 2 0 R/Resources<</Font<</F1 4 0 R>>/ProcSet[/PDF/Text]>>/MediaBox[0 0 612 792]/Contents 5 0 R>>
+endobj
+
+4 0 obj
+<</Type/Font/Subtype/Type1/BaseFont/Helvetica>>
+endobj
+
+5 0 obj
+<</Length 324>>
+stream
+BT
+/F1 24 Tf
+1 0 0 rg
+72 720 Td
+(Red Text) Tj
+0 1 0 rg
+0 -36 Td
+(Green Text) Tj
+0 0 1 rg
+0 -36 Td
+(Blue Text) Tj
+0 0 0 rg
+/F1 18 Tf
+0 -36 Td
+(Normal Text) Tj
+/F1 18 Tf
+1 0 0 1 72 540 Tm
+15 TL
+(This is a paragraph with multiple lines.) '
+(It demonstrates line breaks and text flow.) '
+(The apostrophe operator moves to the next line.) '
+ET
+endstream
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000018 00000 n 
+0000000064 00000 n 
+0000000118 00000 n 
+0000000251 00000 n 
+0000000314 00000 n 
+
+trailer
+<</Size 6/Root 1 0 R>>
+startxref
+689
+%%EOF

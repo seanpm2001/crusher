@@ -1,0 +1,44 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/MediaBox [0 0 595 842]
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Contents 4 0 R
+>>
+endobj
+
+4 0 obj
+<<
+/Length 45
+>>
+stream
+BT
+/F1 12 Tf
+72 720 Td
+(This is another PDF example.) Tj
+ET
+endstream
+endobj
+
+trailer
+<<
+/Root 1 0 R
+/Size 5
+>>
+%%EOF

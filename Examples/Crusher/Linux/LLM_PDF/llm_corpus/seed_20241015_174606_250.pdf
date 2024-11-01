@@ -1,0 +1,79 @@
+%PDF-1.6
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [3 0 R]
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 400 300]
+/Resources
+<<
+/Font
+<<
+/F1 4 0 R
+>>
+>>
+/Contents 5 0 R
+/Annots [6 0 R]
+>>
+endobj
+
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Times-Roman
+>>
+endobj
+
+5 0 obj
+<<
+/Length 40
+>>
+stream
+BT
+50 150 Td
+/F1 12 Tf
+(This page contains annotations) Tj
+ET
+endstream
+endobj
+
+6 0 obj
+<<
+/Type /Annot
+/Subtype /Text
+/Rect [50 100 200 120]
+/Contents (This is an annotation)
+>>
+endobj
+
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000058 00000 n 
+0000000105 00000 n 
+0000000145 00000 n 
+0000000195 00000 n 
+0000000250 00000 n 
+trailer
+<<
+/Root 1 0 R
+/Size 7
+>>
+startxref
+350
+%%EOF

@@ -1,0 +1,104 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources <<
+/Font <<
+/F1 4 0 R
+/F2 6 0 R
+>>
+/XObject <<
+/Im1 8 0 R
+>>
+>>
+/MediaBox [0 0 612 792]
+/Contents 9 0 R
+>>
+endobj
+
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Times-Roman
+>>
+endobj
+
+8 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 300
+/Height 300
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Filter /DCTDecode
+/Length 10000
+>>
+stream
+...binary image data...
+endstream
+endobj
+
+9 0 obj
+<<
+/Length 123
+>>
+stream
+BT
+/F1 24 Tf
+100 700 Td
+(Hello, World!) Tj
+ET
+BT
+/F2 16 Tf
+100 650 Td
+(This is a sample PDF document.) Tj
+ET
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000010 00000 n 
+0000000059 00000 n 
+0000000115 00000 n 
+0000000271 00000 n 
+0000000000 00000 f 
+0000000348 00000 n 
+0000000000 00000 f 
+0000000425 00000 n 
+0000000660 00000 n 
+trailer
+<<
+/Size 10
+/Root 1 0 R
+>>
+startxref
+833
+%%EOF

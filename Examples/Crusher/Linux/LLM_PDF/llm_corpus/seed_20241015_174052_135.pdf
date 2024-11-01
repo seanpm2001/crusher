@@ -1,0 +1,66 @@
+%PDF-1.6
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/MediaBox [0 0 300 300]
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Contents 4 0 R
+/Resources
+<<
+/XObject
+<<
+/Im1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 50
+>>
+stream
+BT
+/F1 12 Tf
+50 250 Td
+(Hello, PDF World!) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 100
+/Height 100
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Length 100
+>>
+stream
+...binary image data...
+endstream
+endobj
+
+trailer
+<<
+/Root 1 0 R
+/Size 6
+>>
+%%EOF

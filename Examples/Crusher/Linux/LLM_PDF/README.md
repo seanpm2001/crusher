@@ -17,7 +17,6 @@
 В контейнере выполните команды:
 
 * `$ ./build.sh`
-* `$ apt install ./libssl1.1_1.1.1f-1ubuntu2_amd64.deb ./libssl-dev_1.1.1f-1ubuntu2_amd64.deb`
 * `$ /home/opt/crusher/bin_x86-64/python-3.9_x86_64/bin/python3 -m pip install openai pypdf`
 
 Перед выполнением дальнейших команд запуска также нужно установить переменные окружения

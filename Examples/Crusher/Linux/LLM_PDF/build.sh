@@ -33,7 +33,7 @@ $CXX $CXXFLAGS -std=c++11 -Iinclude \
     $SRC/pdf_fuzzer.cc -o $OUT/$fuzz_target \
     $WORK/libmupdf.a $WORK/libmupdf-third.a
 
-cp $SRC/{*.zip} $OUT
+cp $SRC/*.zip $OUT
 
 if [ ! -f "${OUT}/${fuzz_target}_seed_corpus.zip" ]; then
   echo "missing seed corpus"
